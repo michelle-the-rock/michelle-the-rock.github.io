@@ -24,7 +24,7 @@ function Resume() {
           </h2>
           <body>
             <ul>
-              <li>2020 - Graduated from Northeastern University (Boston, MA) with a Bachelor's Degree in Computer Science with a Minor in Spanish, Magna Cum Laude with Honors (3.84 GPA)</li>
+              <li>2020 - Graduated from Northeastern University (Boston, MA) with a BS in Computer Science, Minor in Spanish, Magna Cum Laude with Honors (3.84 GPA)</li>
               <li>2018 - Semester Abroad studying Computer Sciene, Spanish, and Intercultural Communication at La Universidad de Carlos III de Madrid</li>
               <li>2015 - Graduated Normandy High School (Parma, OH), Summa Cum Laude with Honors (4.62 GPA)</li>
             </ul>
